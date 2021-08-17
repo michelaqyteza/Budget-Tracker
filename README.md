@@ -14,7 +14,7 @@ This application allows you to track what you spend and how much you earn with r
 - indexedDB
 
 # Screenshots 
-![homepage]()
+![homepage](https://github.com/michelaqyteza/Budget-Tracker/blob/main/public/icons/budgettrackersc.png?raw=true)
 
 ## Application Links 
 - [Heroku]()
